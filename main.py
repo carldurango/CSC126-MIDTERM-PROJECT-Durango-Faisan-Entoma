@@ -11,7 +11,7 @@ from datetime import datetime
 # ==========================================
 STUDENT_ROSTER = {
     "241-02079": {"name": "Joseph D. Faisan", "course": "BSIT", "year": "2nd Year"},
-    "241-00421": {"name": "Carl Durango", "course": "BSIT", "year": "2nd Year"},
+    "241-00432": {"name": "Carl Durango", "course": "BSIT", "year": "3rd Year"},
     "241-00123": {"name": "Juan Dela Cruz", "course": "BSIT", "year": "2nd Year"},
     "241-00456": {"name": "Maria Clara", "course": "BSCS", "year": "3rd Year"}
 }
