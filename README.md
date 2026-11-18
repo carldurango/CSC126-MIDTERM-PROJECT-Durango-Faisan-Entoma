@@ -61,4 +61,4 @@ Click inside the **SmartAttend Dashboard** window and press any of these keys:
 
 
 ## Sample Output
-![SmartAttend Dashboard Output](dashboard_demo.png)
+![SmartAttend Dashboard Output](output.png)
